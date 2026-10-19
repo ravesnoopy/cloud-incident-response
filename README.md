@@ -1,3 +1,4 @@
+![AWS Incident Response Demonstrated](images/image1.png)
 # Cloud Incident Response Portfolio
 
 **AWS Response & Detection labs, contextualized by a ransomware incident case study (Sprint 11)**
